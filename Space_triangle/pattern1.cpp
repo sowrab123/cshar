@@ -22,9 +22,6 @@ while(1){
         }
         cout<< endl;
     }
-
-
-
 }
 
     getch();

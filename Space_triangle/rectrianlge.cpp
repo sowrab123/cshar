@@ -11,7 +11,7 @@ int main()
 
         for (col = 1; col <= n; col++)
         {
-            cout<< "*";
+            cout<< " *";
 
         };
         cout<<endl;
