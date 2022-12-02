@@ -1,5 +1,5 @@
 <!-- 1st pattern -->
-# 1. Alphabetic Right Side Pattern
+## 1. Program to print half pyramid using alphabets (Vertical)
 ```c++
 
 #include <iostream>
@@ -37,7 +37,7 @@ ___
 </pre>
 <!-- 2nd pattern -->
 
-#  2. Alphabetic Right Side Pattern (Same)
+## 2. Program to print half pyramid using alphabets (Horizontal)
 
 ```c++
 
@@ -76,7 +76,7 @@ ___
 </pre>
 <!-- 3rd pattern -->
 
-# 3. Binary Right Side Pattern 
+## 3. Print Floyd's Triangle (Binary Number) 
 
 
 ```c++
@@ -125,7 +125,7 @@ ___
 
 <!-- 4th pattern -->
 
-# 4. Binary Right Side Pattern (Same)
+## 4. Print Floyd's Triangle (Horizontal)
 
 ```c++
 
@@ -174,7 +174,7 @@ ___
 
 <!-- 9th pattern -->
 
-# 5. Pyramid Right Pattern 
+## 5. Inverted top-bottom pyramid using *
 
 ```c++
 
@@ -234,7 +234,7 @@ ___
 
 <!-- 5th pattern -->
 
-# 6. Double Triangle Pattern  
+## 6.  Inverted top-bottom pyramid using Number
 
 
 ```c++
@@ -297,7 +297,7 @@ ___
 
 <!-- 6th pattern -->
 
-# 7. Pyramid Pattern 
+## 7. Program to print full pyramid using *
 
 ```c++
 
@@ -354,7 +354,7 @@ ___
 
 <!-- 7th pattern -->
 
-# 8. Double Pyramid Pattern 
+## 8.  Square full pyramid using * 
 
 ```c++
 
@@ -434,7 +434,7 @@ ___
 
 <!-- 8th pattern -->
 
-# 9. Upside Down Triangle Pattern 
+## 9. Inverted half pyramid using Numbers
 
 ```c++
 
@@ -489,7 +489,7 @@ ___
 
 <!-- 10th pattern -->
 
-# 10. Rectriangle Pattern 
+## 10. Program For Rectangle And Square Star Pattern
 
 ```c++
 
@@ -537,7 +537,7 @@ ___
 
 <!-- 11th pattern -->
 
-# 10. Rectriangle Pattern 
+## 10. Program To Print Hollow Rectangle Or Square Star Pattern
 
 ```c++
 
